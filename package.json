@@ -1,10 +1,10 @@
 {
-  "name": "le717.html-skeleton",
-  "version": "1.4.3",
+  "name": "virtualfrost.html-skeleton",
+  "version": "1.4.4",
   "title": "HTML Skeleton",
   "description": "Easily insert a variety of HTML elements into your document.",
-  "homepage": "https://github.com/le717/brackets-html-skeleton",
-  "author": "Triangle717 (http://le717.github.io)",
+  "homepage": "https://github.com/VirtualFrost/brackets-html-skeleton",
+  "author": "Triangle717 (http://le717.github.io) & VirtualFrost",
   "license": "MIT",
   "engines": { "brackets": ">=0.44.0" },
   "keywords": [
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/le717/brackets-html-skeleton.git"
+    "url": "https://github.com/VirtualFrost/brackets-html-skeleton.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
