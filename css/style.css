@@ -14,7 +14,7 @@
 /* Prevent scrollbars, slightly enlarge dialog */
 .modal-body.html-skeleton {
   overflow: hidden;
-  max-height: 420px;
+  max-height: 440px;
 }
 
 /* Move the information text up */
