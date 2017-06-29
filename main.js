@@ -59,7 +59,7 @@ define(function (require, exports, module) {
     
     bootstrapSkel : "<!DOCTYPE html>\n<html lang='en'>\n<head>\nindent-size<meta charset='utf-8'>\n" +
     "indent-size<title></title>\nindent-size<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>\n" +
-    "</head>\n\n<body>\nindent-size<script src='https://code.jquery.com/jquery-3.2.1.min.js' integrity='sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=' crossorigin='anonymous'></script>\nindent-size<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>\n</body>\n</html>\n"
+    "</head>\n\n<body>\n" + "indent-size<script src='https://code.jquery.com/jquery-3.2.1.min.js' integrity='sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=' crossorigin='anonymous'></script>\n" + "indent-size<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>\n</body>\n</html>\n"
   };
 
 
