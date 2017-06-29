@@ -30,6 +30,7 @@ define({
     "EXTERNAL_SCRIPT"              : "Script esterno",
     "INLINE_SCRIPT"                : "Script interno",
     "PICTURE_IMAGE"                : "Immagine",
+    "BOOTSTRAP_SKELETON"           : "Bootstrap Skeleton",
     "WIDTH"                        : "Lunghezza",
     "HEIGHT"                       : "Altezza",
     "FULL_SKELETON"                : "Completa HTML Skeleton",

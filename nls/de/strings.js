@@ -29,6 +29,7 @@ define({
     "EXTERNAL_SCRIPT"              : "externes Script",
     "INLINE_SCRIPT"                : "Inline-Script",
     "PICTURE_IMAGE"                : "Grafik/Bild",
+    "BOOTSTRAP_SKELETON"           : "Bootstrap Skeleton",
     "WIDTH"                        : "Breite",
     "HEIGHT"                       : "Höhe",
     "FULL_SKELETON"                : "Komplettes HTML Grundgerüst",

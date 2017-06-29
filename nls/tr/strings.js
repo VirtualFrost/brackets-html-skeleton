@@ -31,6 +31,7 @@ define({
   "EXTERNAL_SCRIPT"              : "Harici Script",
   "INLINE_SCRIPT"                : "Satır İçi Script",
   "PICTURE_IMAGE"                : "Resim",
+  "BOOTSTRAP_SKELETON"           : "Bootstrap Skeleton",
   "WIDTH"                        : "Genişlik",
   "HEIGHT"                       : "Yükseklik",
   "FULL_SKELETON"                : "Tam HTML İskeleti",

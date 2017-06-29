@@ -48,14 +48,18 @@ define(function (require, exports, module) {
     viewport : "<meta name='viewport' content='width=device-width, initial-scale=1.0'>",
     extScript: "<script src=''></script>",
 
-    basiSkel : "<!DOCTYPE html>\n<html lang=''>\n<head>\nindent-size<meta charset='utf-8'>\n" +
+    basiSkel : "<!DOCTYPE html>\n<html lang='en'>\n<head>\nindent-size<meta charset='utf-8'>\n" +
     "indent-size<meta name='viewport' content='width=device-width, initial-scale=1.0'>\n" +
     "indent-size<title></title>\n</head>\n\n<body>\nindent-size\n</body>\n</html>\n",
 
-    fullSkel : "<!DOCTYPE html>\n<html lang=''>\n<head>\nindent-size<meta charset='utf-8'>\n" +
+    fullSkel : "<!DOCTYPE html>\n<html lang='en'>\n<head>\nindent-size<meta charset='utf-8'>\n" +
     "indent-size<meta name='viewport' content='width=device-width, initial-scale=1.0'>\n" +
     "indent-size<title></title>\nindent-size<link rel='stylesheet' href=''>\n" +
-    "</head>\n\n<body>\nindent-size<script src=''></script>\n</body>\n</html>\n"
+    "</head>\n\n<body>\nindent-size<script src=''></script>\n</body>\n</html>\n",
+    
+    bootstrapSkel : "<!DOCTYPE html>\n<html lang='en'>\n<head>\nindent-size<meta charset='utf-8'>\n" +
+    "indent-size<title></title>\nindent-size<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>\n" +
+    "</head>\n\n<body>\nindent-size<script src='https://code.jquery.com/jquery-3.2.1.min.js' integrity='sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=' crossorigin='anonymous'></script>\nindent-size<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>\n</body>\n</html>\n"
   };
 
 
